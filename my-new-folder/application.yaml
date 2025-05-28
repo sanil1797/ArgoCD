@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/sanil1797/ArgoCD
     targetRevision: HEAD
-    path: my-new-folder  # Folder in your repo with Kubernetes YAMLs
+    path: my-new-folde  # Folder in your repo with Kubernetes YAMLs
 
   destination:
     server: https://kubernetes.default.svc
